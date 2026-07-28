@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/SamuFer/SamuFer/blob/main/banner-perfil-github.png?raw=true" alt="Banner Profile" width="100%">
+</p>
+
 ## Hey, I'm SamuFerDev! 👋
 ### Junior Full Stack Developer & Computer Engineering Student · Spain
 
