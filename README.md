@@ -54,4 +54,4 @@ I am a Junior Full Stack Developer currently studying Computer Engineering. Afte
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SamuFer&rank_icon=github&include_all_commits=true&theme=material-palenight)](https://github-stats-extended.vercel.app/api?username=SamuFer&rank_icon=github&include_all_commits=true&theme=material-palenight)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SamuFer&langs_count=4&theme=cobalt2)](https://github-stats-extended.vercel.app/api/top-langs?username=SamuFer&langs_count=4&theme=cobalt2)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SamuFer&layout=compact&langs_count=10&theme=cobalt2)](https://github-stats-extended.vercel.app/api/top-langs?username=SamuFer&layout=compact&langs_count=10&theme=cobalt2)
