@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="[#english-version](https://github.com/samufer/samufer/blob/main/README.md)">
+  <a href="https://github.com/samufer/samufer/blob/main/README.md">
     <img src="https://img.shields.io/badge/English-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English">
   </a>
-  <a href="[#version-en-espanol](https://github.com/samufer/samufer/blob/main/README_es.md)">
+  <a href="https://github.com/samufer/samufer/blob/main/README_es.md">
     <img src="https://img.shields.io/badge/Espa%C3%B1ol-green?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Español">
   </a>
 </p>
